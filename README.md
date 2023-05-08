@@ -1,2 +1,5 @@
 # Chrome-DevTools
-![Chrome-DevTools](https://docs.google.com/document/d/1y_HqQm-LSVHNE-DWDKBNZxg2yEhtz8OtfV3rK8hUxJo/edit?usp=sharing)
+Інструменти розробника (від англ. Development tools або скорочено DevTools) ─ це програми, що дозволяють створювати, тестувати і налагоджувати (debug) програмне забезпечення.
+
+Сучасні браузери, Safari, Firefox, Microsoft Edge, Chrome, Яндекс та інші мають вбудовані інструменти розробника, що дозволяють переглянути вихідний код сайту. Окремо встановлювати їх не потрібно. З їх допомогою можна переглядати та налагоджувати HTML сайту, його CSS та Javascript. Також можна перевірити мережевий трафік, споживаний сайтом, його швидкодію та багато інших параметрів.
+![Приклад](https://github.com/RomanPravdiuk/Chrome-DevTools/blob/main/page1.png)
