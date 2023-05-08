@@ -3,4 +3,4 @@
 
 Сучасні браузери, Safari, Firefox, Microsoft Edge, Chrome, Яндекс та інші мають вбудовані інструменти розробника, що дозволяють переглянути вихідний код сайту. Окремо встановлювати їх не потрібно. З їх допомогою можна переглядати та налагоджувати HTML сайту, його CSS та Javascript. Також можна перевірити мережевий трафік, споживаний сайтом, його швидкодію та багато інших параметрів.
 
-![Приклад](https://github.com/RomanPravdiuk/Chrome-DevTools/blob/main/page1.png)
+![Приклад](https://github.com/RomanPravdiuk/Chrome-DevTools/blob/main/Page1.png)
